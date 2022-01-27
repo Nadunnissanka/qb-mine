@@ -13,3 +13,12 @@ Mining job for QBCore framework. All rights reserved to the first owner who wrot
 Tested and working on latest qbcore version.  
 This is not my own work. Just fixed the bugs and configured the script to work with latest qb version without high packetloss.  
 - added images of diamond and emerald
+
+## ItemArray
+'''
+-- MINING JOB
+	['diamond'] 				 	 = {['name'] = 'diamond', 			  			['label'] = 'diamond', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'diamond.png', 			    ['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'Small daimond stone'},
+	['emerald'] 				 	 = {['name'] = 'emerald', 			  			['label'] = 'emerald', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'emerald.png', 			    ['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'Small emerald stone'},
+
+'''
+
